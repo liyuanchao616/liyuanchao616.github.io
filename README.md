@@ -1,5 +1,3 @@
-                                     
-                                     
-                                     **Bear Love Turtle FOREVER!**
+ **Bear Love Turtle FOREVER!**
 
-                                             **FOREVER!**
+                                            **FOREVER!**
