@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Stories of bear and turtle 
+email:       xnslx90@gmail.com 
+author:      Xian Li
+description: "Lifelong family stories"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://bear-and-turtle.us"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
