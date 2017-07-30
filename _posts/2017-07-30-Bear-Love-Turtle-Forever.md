@@ -2,7 +2,7 @@
 layout:     post
 title:      Bear Love Turtle Forever!
 date:       2017-07-30 
-summary:    gift for my lovely wife!
+summary:    A gift for my lovely wife!
 categories: jekyll pixyll
 ---
 
