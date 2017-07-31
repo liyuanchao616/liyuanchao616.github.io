@@ -4,3 +4,4 @@ title: Stories of Bear and Turtle
 url: http://bear-and-turtle.us
 feed: /atom.xml
 author_info: <a href="http://bear-and-turtle.us/">Xian Li</a>
+markdown:kramdown
