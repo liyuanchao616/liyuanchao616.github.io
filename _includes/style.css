@@ -165,17 +165,28 @@ a.external:hover {
   width: 30%;
   height: 100%;
   max-width: 500px;
-  background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
-  background:#500;
-
+  background: #59a0b0;
 }
+
+.aside {
+    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
+}
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 767px) {
   .index-wrapper .aside {
     position: relative;
     width: 100%;
     height: 200px;
     max-width: none;
-    background: url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
+    background:
   }
 }
 .index-wrapper .info-card {
@@ -462,17 +473,8 @@ a.external:hover {
 #particles-js {
   width: 100%;
   height: 100%;
-  background-repeat: no-repeat;
-  -webkit-background-size: 20%;
-  -moz-background-size: 20%;
-  background-size: 20%;
-  background-position: 50% 50%;
-  background: #38658c;
-  background: -webkit-radial-gradient(top left, #5d3571, #38658c);
-  background: -moz-radial-gradient(top left, #5d3571, #38658c);
-  background: -o-radial-gradient(top left, #5d3571, #38658c);
-  background: -ms-radial-gradient(top left, #5d3571, #38658c);
-  background: radial-gradient(to bottom right, #5d3571, #38658c);
+  background-size: cover;
+  background-image: url(https://scontent.ffsd1-1.fna.fbcdn.net/v/t1.0-9/11959969_592484494223578_2830896302143262858_n.jpg?oh=2a4a16ae5b2471a0ea470bdfb0549659&oe=5A2FFAE6);
 }
 #disqus_container {
   font-size: 12px;
