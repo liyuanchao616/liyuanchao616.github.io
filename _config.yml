@@ -1,14 +1,6 @@
-auto: true
-
-markdown: rdiscount
-
-highlighter: 'pygments'
-#paginate: 8
 permalink: /:title
 
-name: “Bear and Turtle's Blog”
-title: Bear and Turtle's blog
-description: Everything about Mukosame.
-url: http://bear-and-turtle.us
+title: BeiYuu.com
+url: http://beiyuu.com
 feed: /atom.xml
-author_info: <a href="https://www.facebook.com/xian.li.750/">Xian_Li</a>
+author_info: <a href="http://beiyuu.com/">BeiYuu</a>
