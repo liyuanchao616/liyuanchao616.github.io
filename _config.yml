@@ -17,9 +17,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    zhihu: people/li-yuan-chao-62/activities
     github:  liyuanchao616/Numerical-modeling-of-electrochemistry
     linkedIn: in/yuanchao-li-37456490/
+    zhihu: people/li-yuan-chao-62/activities
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
