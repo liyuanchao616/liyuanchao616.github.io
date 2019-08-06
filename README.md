@@ -1,84 +1,113 @@
-# leopard
+# plainwhite
 
-[leopard](http://baixin.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+Simplistic jekyll portfolio-style theme for writers.
 
-### 使用手册
+**Demo**: [thelehhman.com](https://thelehhman.com)
 
-[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)  :  使用Jekyll搭建个人博客的教程，以及如果把博客模板修改成你自己的博客，里面也有大量的评论，及 Jekyll 搭建博客出现过的问题。
-
-[HEXO搭建个人博客](http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/) : 使用 HEXO 基于 Github Page 搭建个人博客， 教程里面累计了大量提问和评论，如果你在搭建博客时遇到问题，可以看看这个教程。 
+![plainwhite theme preview](/screenshot.png)
 
 
-### 使用条件
+## Installation on Github Pages
 
-Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
-Jekyll 需要依赖：Ruby、bundler
+Add this line to your site's `_config.yml`:
+```yaml
+remote_theme: thelehhman/plainwhite-jekyll
+```
+## Installation
 
+Add this line to your Jekyll site's `Gemfile`:
 
-#### 安装Jekyll
+```ruby
+gem "plainwhite"
+```
 
-[Jekyll中文官方文档](http://jekyll.bootcss.com/) ， 如果你已经安装过了 Jekyll，可以忽略此处。
+And add this line to your Jekyll site's `_config.yml`:
 
-> $ gem install jekyll
+```yaml
+theme: plainwhite
+```
 
-#### 获取博客模板
+And then execute:
 
-> $ git clone https://github.com/leopardpan/leopardpan.github.io.git
+    $ bundle
 
-或者直接[下载博客](https://github.com/leopardpan/leopardpan.github.io/archive/master.zip)   
+Or install it yourself as:
 
-进leopardpan.github.io/ 目录下， 开启本地服务 
+    $ gem install plainwhite
 
-> $ jekyll server
+## Usage
 
-在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。
+The "plainwhite" key in _config.yml is used to customize the theme data.
+```yaml
+plainwhite:
+  name: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
 
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman # format: locale/username
+```
 
-### 提示
+**Updating Placeholder Image**
 
->* 如果你想使用我的模板，请把 _posts/ 目录下的文章都去掉。
->* 修改 _config.yml 文件里面的内容为你自己的个人信息。
+The placeholder portfolio image can be replaced by the desired image by placing it as `assets/portfolio.png` in your jekyll website.
 
-如果在部署博客的时候发现问题，可以直接在[Issues](https://github.com/leopardpan/leopardpan.github.io/issues)里面提问。        
+**Comments (Disqus)**
 
+Comments on posts can be enabled by specifying your disqus_shortname under plainwhite in `_config.yml`. For example,
+```yaml
+plainwhite:
+  disqus_shortname: games
+```
 
-### 把这个博客变成你自己的博客
+**Google Analytics**
 
-根据上面【提示】修改过后，在你的github里创建一个username.github.io的仓库，username指的值你的github的用户名。      
-创建完成后，把我的这个模板使用git push到你的username.github.io仓库下就行了。
-搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)。
+It can be enabled by specifying your analytics id under plainwhite in `_config.yml`
+```yaml
+plainwhite:
+  analytics_id: '< YOUR ID >'
+```
 
+**Sitemap**
 
-### 效果预览
+It can be toggled by the following line to under plainwhite in  `_config.yml`
 
-#### 头像效果
+```yaml
+plainwhite:
+  sitemap: true
+```
 
-![](/images/readme//icon.gif)
+**Excerpts**
 
-如果你只想要我博客里的头像效果，你只需要拿 leopardpan.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 leopardpan.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
+Excerpts can be enabled by adding the following line to your `_config.yml`
+```yaml
+show_excerpts: true
+```
+**Layouts**
 
+- Home
+- Page
+- Post
 
-***
+## Contributing
 
-#### 博客首页   
+Bug reports and pull requests are welcome on GitHub at https://github.com/thelehhman/plainwhite-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-![](/images/readme//img4.png)   
+## Development
 
-***  
+To set up your environment to develop this theme, run `bundle install`.
 
-#### 文章详情   
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
+When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `plainwhite.gemspec` accordingly.
 
+## License
 
-![](/images/readme//img3.png)
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
+## More themes
 
-![](/images/readme//img2.png)
-
-
-![](/images/readme//img1.png)
-
-
-#### 感谢   
-
-本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+- [Texture](https://github.com/thelehhman/texture)
