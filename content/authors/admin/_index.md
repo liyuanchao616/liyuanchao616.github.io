@@ -58,11 +58,8 @@ skills:
     items:
       - name: Electrocatalyst
         icon: particle
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
+      - name: Electrolyte
+        icon: chemistry
       - name: SQL
         description: ''
         percent: 40
