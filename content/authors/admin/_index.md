@@ -28,11 +28,8 @@ bio: My research interests include energy storage and green hydrogen application
 
 # Interests to show in About widget
 interests:
-  - Material Science and Engineering
-  -	PEM Fuel Cell
-  -	Flow Battery
-  -	Theoretical Chemistry
-  - Battery Modelling
+  - Material 
+  - Fuel Cell
 
 
 # Education to show in About widget
