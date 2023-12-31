@@ -1,6 +1,6 @@
 ---
-title: Synthesis and Evaluation of Rh$łess$sub$greater$x$łess$/sub$greater$S$łess$sub$greater$y$łess$/sub$greater$
-  Catalyst with High Affinity for Nafion Ionomer for HOR/HER in a H$łess$sub$greater$2$łess$/sub$greater$-Br$łess$sub$greater$2$łess$/sub$greater$
+title: Synthesis and Evaluation of RhxSy
+  Catalyst with High Affinity for Nafion Ionomer for HOR/HER in a H2-Br2
   Regenerative Fuel Cell
 authors:
 - Yuanchao Li
