@@ -2,7 +2,7 @@
 # Display name
 title: Yuanchao Li (李元超)
 
-
+name_pronounciation: ''
 
 # Full name (for SEO)
 first_name: Yuanchao
@@ -54,7 +54,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Synthesis & Characterization
     items:
       - name: Python
         description: ''
