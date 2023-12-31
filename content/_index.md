@@ -62,10 +62,8 @@ sections:
           location: Los Alamos, New Mexico
           date_start: '2023-06'
           date_end: ''
-          description: 
-            (1)	Established baseline performance metrics for the URFC.
-            (2)	Developed and implemented a standardized test protocol for URFC research.
-            (3)	Engineering a durable and cost-effective titanium-less porous transport layer.
+          description: Develop unitized regenerative fuel cell (URFC)
+            
 
         - title: Postdoctoral Research Associate
           company: University of Kansas
@@ -74,7 +72,7 @@ sections:
           location: Lawrence, Kansas
           date_start: '2019-04'
           date_end: '2023-06'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Electrolyte Densification Process for Cost-Efficient Flow Battery Transport; Enhanced PEM Fuel Cell Efficiency through Hydrophobic Ionomer Surface Treatment; Hybrid Form High-Energy-Density Flow Battery for Grid-Scale Storage.
     design:
       columns: '2'
   - block: accomplishments
