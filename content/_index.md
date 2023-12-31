@@ -62,19 +62,18 @@ sections:
           location: Los Alamos, New Mexico
           date_start: '2023-06'
           date_end: ''
-          description: |2-
-            Unitized regenerative fuel cell (URFC):
-              (1)	Established baseline performance metrics for the URFC.
-              (2)	Developed and implemented a standardized test protocol for URFC research.
-              (3)	Engineering a durable and cost-effective titanium-less porous transport layer.
+          description: 
+            (1)	Established baseline performance metrics for the URFC.
+            (2)	Developed and implemented a standardized test protocol for URFC research.
+            (3)	Engineering a durable and cost-effective titanium-less porous transport layer.
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Postdoctoral Research Associate
+          company: University of Kansas
           company_url: ''
-          company_logo: chemistry
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: KU
+          location: Lawrence, Kansas
+          date_start: '2019-04'
+          date_end: '2023-06'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
