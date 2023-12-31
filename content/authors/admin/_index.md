@@ -26,13 +26,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include energy storage and green hydrogen application.
 
-# # Interests to show in About widget
-# interests:
-#   - Material Science and Engineering
-#   -	PEM Fuel Cell
-#   -	Flow Battery
-#   -	Theoretical Chemistry
-#   - Battery Modelling
+# Interests to show in About widget
+interests:
+    - Material Science and Engineering
+    -	PEM Fuel Cell
+    -	Flow Battery
+    -	Theoretical Chemistry
+    - Battery Modelling
 
 
 # Education to show in About widget
