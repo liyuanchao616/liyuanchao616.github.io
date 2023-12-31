@@ -55,19 +55,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Postdoctoral Research Associate
+          company: Los Alamos National Laboratory
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: LANL
+          location: Los Alamos, New Mexico
+          date_start: '2023-06'
           date_end: ''
           description: |2-
-              Responsibilities include:
+            Unitized regenerative fuel cell (URFC):
+              (1)	Established baseline performance metrics for the URFC.
+              (2)	Developed and implemented a standardized test protocol for URFC research.
+              (3)	Engineering a durable and cost-effective titanium-less porous transport layer.
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
