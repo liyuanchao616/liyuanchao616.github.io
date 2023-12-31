@@ -57,7 +57,10 @@ skills:
   - name: Synthesis & Characterization
     items:
       - name: Electrocatalyst
+        description: ''
+        percent: 80
         icon: particle
+        icon_pack: fas
       - name: Electrolyte
         icon: chemistry
       - name: SQL
