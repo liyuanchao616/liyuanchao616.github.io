@@ -64,9 +64,9 @@ sections:
           date_end: ''
           description: |2-
             Develop unitized regenerative fuel cell (URFC):
-            (1)	Established baseline performance metrics for the URFC.
-            (2)	Developed and implemented a standardized test protocol for URFC research.
-            (3)	Engineering a durable and cost-effective titanium-less porous transport layer.
+              (1)	Established baseline performance metrics for the URFC.
+              (2)	Developed and implemented a standardized test protocol for URFC research.
+              (3)	Engineering a durable and cost-effective titanium-less porous transport layer.
 
 
         - title: Postdoctoral Research Associate
@@ -78,20 +78,20 @@ sections:
           date_end: '2023-06-01'
           description: |2-
             1. Electrolyte Densification Process for Cost-Efficient Flow Battery Transport:
-              (1)	Innovated a method to transform low-concentration aqueous electrolytes into densified gel form without losing activity. 
-              (2)	Reduced the transportation costs of flow battery electrolytes by 90%, translating to a 20% reduction in the overall capital cost of the flow battery system.
-              (3)	Discovered unique electrochemical properties in supersaturated electrolytes during this industry-focused research, paving the way for groundbreaking fundamental studies in a new domain of electrochemistry.
+                (1)	Innovated a method to transform low-concentration aqueous electrolytes into densified gel form without losing activity. 
+                (2)	Reduced the transportation costs of flow battery electrolytes by 90%, translating to a 20% reduction in the overall capital cost of the flow battery system.
+                (3)	Discovered unique electrochemical properties in supersaturated electrolytes during this industry-focused research, paving the way for groundbreaking fundamental studies in a new domain of electrochemistry.
             2. Enhanced PEM Fuel Cell Efficiency through Hydrophobic Ionomer Surface Treatment:
-              (1)	Engineered the ionomer surface of PEM fuel cells, achieving a significant 135% increase in peak power output.
-              (2)	Collaborated with NIST scientists to analyze and determine the microscopic structures of the ionomer.
+                (1)	Engineered the ionomer surface of PEM fuel cells, achieving a significant 135% increase in peak power output.
+                (2)	Collaborated with NIST scientists to analyze and determine the microscopic structures of the ionomer.
             3. Heterogeneous Ionomer Distribution Modeling in PEM Fuel Cells:
-              (1)	Developed a comprehensive device model to mathematically represent PEM fuel cells with treated ionomer.
-              (2)	Investigated the underlying mechanisms responsible for significant performance enhancements due to ionomer treatment.
-              (3)	Proposed advanced material development strategies for further enhancement of PEM fuel cell performance.
+                (1)	Developed a comprehensive device model to mathematically represent PEM fuel cells with treated ionomer.
+                (2)	Investigated the underlying mechanisms responsible for significant performance enhancements due to ionomer treatment.
+                (3)	Proposed advanced material development strategies for further enhancement of PEM fuel cell performance.
             4. Hybrid Form High-Energy-Density Flow Battery for Grid-Scale Storage:
-              (1)	Co-invented, alongside my supervisor, a groundbreaking hybrid form (solid and liquid) flow battery, positioning myself as one of the two principal inventors in this pioneering study.
-              (2)	Enhanced the storage energy density of the existing flow battery design 4-fold with minimal structural modifications.
-              (3)	Mentored two undergrad students and one graduate student to conduct relevant research.
+                (1)	Co-invented, alongside my supervisor, a groundbreaking hybrid form (solid and liquid) flow battery, positioning myself as one of the two principal inventors in this pioneering study.
+                (2)	Enhanced the storage energy density of the existing flow battery design 4-fold with minimal structural modifications.
+                (3)	Mentored two undergrad students and one graduate student to conduct relevant research.
 
     design:
       columns: '2'
