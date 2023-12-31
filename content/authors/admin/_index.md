@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am Yuanchao Li, a Postdoctoral Research Associate at Los Alamos National Laboratory, specializing in Chemical Engineering and Electrochemistry. My Ph.D. from the University of Kansas focused on fuel cells and flow batteries, where I made key advancements in fuel cell efficiency and battery energy density. 
+I am Yuanchao Li, a Postdoctoral Research Associate at Los Alamos National Laboratory, specializing in Chemical Engineering and Electrochemistry. My research interests focused on fuel cells and flow batteries, where I made key advancements in fuel cell efficiency and battery energy density. 
 {style="text-align: justify;"}
