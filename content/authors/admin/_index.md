@@ -59,8 +59,7 @@ skills:
       - name: Electrocatalyst
         description: ''
         percent: 80
-        icon: particle
-        icon_pack: fas
+        icon: particle.svg
       - name: Electrolyte
         icon: chemistry
       - name: SQL
