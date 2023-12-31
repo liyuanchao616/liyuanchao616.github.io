@@ -1,37 +1,37 @@
 ---
-title: 'An example conference paper'
+title: 'A Solid/Liquid High-Energy-Density Storage Concept for Redox Flow Batteries and Its Demonstration in an H2-V System'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Yuanchao Li
+  - Trung Van Nguyen
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-11-04T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-11-0T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['Journal Publication']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Journal of The Electrochemical Society
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Redox flow batteries (RFBs) are ideal for large-scale, long-duration energy storage applications. However, the limited solubility of most ions and compounds in aqueous and non-aqueous solvents (1M–1.5 M) restricts their use in the days-energy storage scenario, which necessitates a large volume of solution in the numerous tanks and the vast floorspace for these tanks, making the RFB systems costly. To resolve the low energy storage density issue, this work presents a novel way in which the reactants and products are stored in both solid and soluble forms and only the liquid with soluble ions is circulated through the batteries. Storing the active ions in solid form can greatly increase the storage energy density of the system. With a solid to liquid storage ratio of 2:1, for example, the energy density of the electrolyte of vanadium sulfate (VOSO4), an active compound used in the all-vanadium RFB, can be increased from 40 Ah l−1 to 163 Ah l−1 (>4X), allowing an existing 6-h RFB system to become a 24-h system with minimal modifications. To show how the concept works, an H2-V flow battery with a solid/liquid storage system is used, and its successful demonstration validates the solid-liquid storage concept.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
