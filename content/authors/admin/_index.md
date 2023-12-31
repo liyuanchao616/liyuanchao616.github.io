@@ -56,11 +56,8 @@ education:
 skills:
   - name: Synthesis & Characterization
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+      - name: Electrocatalyst
+        icon: particle
       - name: Data Science
         description: ''
         percent: 100
