@@ -60,7 +60,7 @@ sections:
           company_url: ''
           company_logo: LANL
           location: Los Alamos, New Mexico
-          date_start: '2023-06'
+          date_start: '2023-06-01'
           date_end: ''
           description: Develop unitized regenerative fuel cell (URFC)
             
@@ -70,8 +70,8 @@ sections:
           company_url: ''
           company_logo: KU
           location: Lawrence, Kansas
-          date_start: '2019-04'
-          date_end: '2023-06'
+          date_start: '2019-04-01'
+          date_end: '2023-06-01'
           description: Electrolyte Densification Process for Cost-Efficient Flow Battery Transport; Enhanced PEM Fuel Cell Efficiency through Hydrophobic Ionomer Surface Treatment; Hybrid Form High-Energy-Density Flow Battery for Grid-Scale Storage.
     design:
       columns: '2'
